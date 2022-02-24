@@ -1,0 +1,19 @@
+{
+  "name": "Deployement",
+  "version": "0.0.1",
+  "description": "test1",
+  "main": "index.js",
+  "authors": {
+    "name": "Bastien",
+    "email": "ba.soreau@gmail.com"
+  },
+  "repository": "/Deployement",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
